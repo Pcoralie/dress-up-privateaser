@@ -1,0 +1,55 @@
+body{
+  background-image: url("privateaser.png");
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-color: #1a1a1a;
+  font-family: verdana;
+  color: black ;
+  margin-top: 250px;
+
+}
+
+div{
+  text-align: inherit;
+  margin-left: auto;
+  margin-right: auto;
+  width:90%;
+  color:#99ffff;
+}
+
+input{
+  text-align: center;
+  border: 2px solid #000000;
+  font-size: 15px;
+  outline: #99ffff solid 10px;
+  outline-style: dotted;
+  padding: 25px;
+  text-shadow: 3px 2px lightgrey;
+  font-weight: bold;
+  border-radius: 15px;
+  margin-right: 30px;
+  margin-bottom: 45px;
+}
+
+input.js-option{
+  margin-left: 30px;
+}
+
+
+
+button{
+  text-align: center;
+  border: 2px solid #000000;
+  padding: 15px;
+  outline: #99ffff solid 10px;
+  margin-top: 30px;
+  margin-left: 700px;
+}
+
+.actor{
+    font-size: 25px;
+}
+
+h1{
+  color:#99ffff;
+}
